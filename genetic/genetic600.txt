@@ -1,0 +1,293 @@
+Running for 10 different initial populations
+
+
+Initial population is 
+
+--------------------------------------------------------------------------
+101001011100111 9.815107
+110001010100110 4.186202
+110100000111100 9.995668
+001010000011001 5.048286
+110101001110111 10.980947
+110111001000100 9.251304
+101010011001000 8.857795
+100100110010000 4.671030
+000101100110000 6.337931
+000011100101101 6.975205
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011010000 11.000000 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011010000 11.000000 
+GA Run 4 and Fitness output: 110101011010000 11.000000 
+GA Run 5 and Fitness output: 110101011010000 11.000000 
+GA Run 6 and Fitness output: 110101011010000 11.000000 
+GA Run 7 and Fitness output: 110101011010000 11.000000 
+GA Run 8 and Fitness output: 110101011010000 11.000000 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011001111 10.999995 
+Average value for this population is: 10.999999
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+111010001000100 2.440948
+010111101011111 4.675830
+110111110011101 7.812801
+000010100011000 6.956114
+111000111000100 5.168519
+111000101000011 5.794579
+111011011111010 1.025476
+011100110011000 8.898188
+010111011011100 4.495426
+100010000100101 3.087869
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011010000 11.000000 
+GA Run 2 and Fitness output: 110101011001111 10.999995 
+GA Run 3 and Fitness output: 110101011010000 11.000000 
+GA Run 4 and Fitness output: 110101011010000 11.000000 
+GA Run 5 and Fitness output: 110101011010000 11.000000 
+GA Run 6 and Fitness output: 110101011010000 11.000000 
+GA Run 7 and Fitness output: 110101011010000 11.000000 
+GA Run 8 and Fitness output: 110101011010000 11.000000 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011010000 11.000000 
+Average value for this population is: 10.999999
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+011100100000111 8.978545
+000110111000011 5.705591
+101111100110001 2.110789
+110110001110010 10.589996
+011001010000101 6.190409
+100011110100011 3.576660
+110000011110010 2.875631
+010111111101010 4.890845
+110110010101110 10.466000
+000111000101001 5.612013
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011001111 10.999995 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011010000 11.000000 
+GA Run 4 and Fitness output: 110101011010000 11.000000 
+GA Run 5 and Fitness output: 110101011010000 11.000000 
+GA Run 6 and Fitness output: 110101011010000 11.000000 
+GA Run 7 and Fitness output: 110101011010000 11.000000 
+GA Run 8 and Fitness output: 110101011010000 11.000000 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011010000 11.000000 
+Average value for this population is: 10.999999
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+110001100000010 4.513391
+100000001111110 4.790201
+010101100100110 4.043300
+111001100011000 3.606807
+100101111001100 6.397992
+011010110000011 8.176084
+001110101111000 7.767674
+110101001010100 10.963136
+011110000011000 7.896917
+100110001111001 7.061559
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011010000 11.000000 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011001111 10.999995 
+GA Run 4 and Fitness output: 110101011010000 11.000000 
+GA Run 5 and Fitness output: 110101011010000 11.000000 
+GA Run 6 and Fitness output: 110101011010000 11.000000 
+GA Run 7 and Fitness output: 110101011001111 10.999995 
+GA Run 8 and Fitness output: 110101011010000 11.000000 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011010000 11.000000 
+Average value for this population is: 10.999999
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+110100110101111 10.801614
+000110100001100 5.880163
+101100110001010 4.465875
+101010010111100 8.890396
+011101111011100 8.029765
+101110110111111 2.031420
+101101010111011 3.449323
+100001101001011 3.305899
+010011101010000 5.215002
+111110011010011 4.958327
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011010000 11.000000 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011001111 10.999995 
+GA Run 4 and Fitness output: 110101011010000 11.000000 
+GA Run 5 and Fitness output: 110101011001111 10.999995 
+GA Run 6 and Fitness output: 110101011010000 11.000000 
+GA Run 7 and Fitness output: 110101011010000 11.000000 
+GA Run 8 and Fitness output: 110101011010000 11.000000 
+GA Run 9 and Fitness output: 110101011001111 10.999995 
+GA Run 10 and Fitness output: 110101011010000 11.000000 
+Average value for this population is: 10.999998
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+110110001000100 10.674412
+111000000100111 7.170282
+000001101111011 6.764404
+000000001000011 6.065383
+101001100101011 9.726932
+001010000100110 5.052260
+000111001111001 5.541265
+111011010000101 1.115382
+100111001100001 8.712389
+110000100110010 3.037734
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011010000 11.000000 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011010000 11.000000 
+GA Run 4 and Fitness output: 110101011001111 10.999995 
+GA Run 5 and Fitness output: 110101011010000 11.000000 
+GA Run 6 and Fitness output: 110101011001111 10.999995 
+GA Run 7 and Fitness output: 110101011001111 10.999995 
+GA Run 8 and Fitness output: 110101011010000 11.000000 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011010000 11.000000 
+Average value for this population is: 10.999998
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+110110010101100 10.470382
+001011110000010 5.604849
+000101111110011 6.153677
+100100111110010 4.934120
+110101010000100 10.986082
+001001000101010 5.014649
+011010010100011 7.676079
+111111111011011 6.520930
+001011010110001 5.426859
+110111101000011 8.214830
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011010000 11.000000 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011010000 11.000000 
+GA Run 4 and Fitness output: 110101011010001 10.999999 
+GA Run 5 and Fitness output: 110101011010000 11.000000 
+GA Run 6 and Fitness output: 110101011010000 11.000000 
+GA Run 7 and Fitness output: 110101011010000 11.000000 
+GA Run 8 and Fitness output: 110101011010000 11.000000 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011001111 10.999995 
+Average value for this population is: 10.999999
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+110101110010001 10.911840
+010011011001011 5.459863
+001010101111100 5.209214
+011100101111101 8.917611
+111101000101000 2.156315
+101100110010100 4.429873
+001010101001101 5.181963
+000110010101000 5.977532
+010111010110000 4.440213
+100101100010111 5.768944
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011010000 11.000000 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011010000 11.000000 
+GA Run 4 and Fitness output: 110101011010000 11.000000 
+GA Run 5 and Fitness output: 110101011010000 11.000000 
+GA Run 6 and Fitness output: 110101011010000 11.000000 
+GA Run 7 and Fitness output: 110101011010000 11.000000 
+GA Run 8 and Fitness output: 110101011001111 10.999995 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011001111 10.999995 
+Average value for this population is: 10.999999
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+010100111100001 4.270203
+001010000001101 5.044754
+001110000010000 7.337371
+010001011100101 7.290186
+011110111101111 6.668046
+011001111010100 7.142398
+110001010001100 4.096275
+111110011000000 4.867774
+111100010100101 1.247574
+000110111110101 5.659296
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011001111 10.999995 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011010000 11.000000 
+GA Run 4 and Fitness output: 110101011001111 10.999995 
+GA Run 5 and Fitness output: 110101011001111 10.999995 
+GA Run 6 and Fitness output: 110101011001111 10.999995 
+GA Run 7 and Fitness output: 110101011010000 11.000000 
+GA Run 8 and Fitness output: 110101011010000 11.000000 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011010000 11.000000 
+Average value for this population is: 10.999998
+--------------------------------------------------------------------------
+
+Initial population is 
+
+--------------------------------------------------------------------------
+110010010011000 6.078478
+100011101011000 3.453748
+101100110010110 4.422691
+001010000001001 5.043606
+011100100100011 8.967639
+100101010000111 5.351988
+101101110010100 2.858299
+101101011101001 3.313528
+111010110110100 1.433229
+000001000110110 6.525016
+
+Result based on above initial population is 
+
+GA Run 1 and Fitness output: 110101011001111 10.999995 
+GA Run 2 and Fitness output: 110101011010000 11.000000 
+GA Run 3 and Fitness output: 110101011010000 11.000000 
+GA Run 4 and Fitness output: 110101011001111 10.999995 
+GA Run 5 and Fitness output: 110101011010000 11.000000 
+GA Run 6 and Fitness output: 110101011001111 10.999995 
+GA Run 7 and Fitness output: 110101011001111 10.999995 
+GA Run 8 and Fitness output: 110101011001111 10.999995 
+GA Run 9 and Fitness output: 110101011010000 11.000000 
+GA Run 10 and Fitness output: 110101011010000 11.000000 
+Average value for this population is: 10.999997
+--------------------------------------------------------------------------
+
